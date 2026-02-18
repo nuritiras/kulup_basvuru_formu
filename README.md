@@ -3,6 +3,7 @@
 Bu proje, Flutter öğrenenler için **Form Yönetimi**, **Kullanıcı Girişleri** ve **Veri Doğrulama (Validation)** işlemlerini tek bir çatı altında gösteren kapsamlı bir eğitim uygulamasıdır.
 
 ![Proje Görseli](<img width="569" height="1090" alt="Ekran Resmi 2026-02-18 09 10 20" src="https://github.com/user-attachments/assets/bb58850c-33ff-4c9f-9525-7855359f1e3e" />)
+<img width="569" height="1090" alt="Ekran Resmi 2026-02-18 09 10 20" src="https://github.com/user-attachments/assets/e659dae0-446e-438b-8383-2d8e0149e1f8" />
 
 ## 🚀 Proje Hakkında
 
