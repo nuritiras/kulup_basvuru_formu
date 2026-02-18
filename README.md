@@ -65,5 +65,6 @@ Kodları incelerken şu noktalara dikkat edin:
 
 Bu proje eğitim amaçlıdır ve MIT lisansı ile lisanslanmıştır. Dilediğiniz gibi kullanabilir, değiştirebilir ve geliştirebilirsiniz.
 
-<img width="569" height="1090" alt="Ekran Resmi 2026-02-18 09 10 20" src="https://github.com/user-attachments/assets/08957c7e-fb22-4a03-9f7f-d9f1ce0ec870" />
+<img width="569" height="1090" alt="Ekran Resmi 2026-02-18 09 17 04" src="https://github.com/user-attachments/assets/132e98d6-0fa1-49f4-ab66-021a7606218a" />
+
 
